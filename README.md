@@ -1,2 +1,2 @@
 # Git_Practice
-This is a practice repo
+This is a webpage repo and iam the developer here
